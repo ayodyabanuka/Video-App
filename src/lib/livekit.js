@@ -1,0 +1,5 @@
+const serverUrl = 'wss://video-call-app-react-un4yxxc5.livekit.cloud';
+const token =
+  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjk2MTI4NTAsImlzcyI6IkFQSTJwZDVYN3dqZWZrTSIsIm5iZiI6MTcyOTYwNTY1MCwic3ViIjoicXVpY2tzdGFydCB1c2VyIG1renhjNyIsInZpZGVvIjp7ImNhblB1Ymxpc2giOnRydWUsImNhblB1Ymxpc2hEYXRhIjp0cnVlLCJjYW5TdWJzY3JpYmUiOnRydWUsInJvb20iOiJxdWlja3N0YXJ0IHJvb20iLCJyb29tSm9pbiI6dHJ1ZX19.14Hy4BEKjpBYacD5eXJj3QKM6mAP_zkKLySuBjMRZZ4';
+
+export { serverUrl, token };
